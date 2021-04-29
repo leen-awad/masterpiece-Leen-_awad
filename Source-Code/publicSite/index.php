@@ -10,7 +10,7 @@ include 'includes/public_header.php' ?>
                     <div class="flex-col-l-m h-full p-t-100 p-b-30">
                         <div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
                             <span class="ltext-202 cl2 respon2">
-                                Collection 2020
+                                Natural materials
                             </span>
                         </div>
                         <div class="layer-slick1 animated visible-false" data-appear="fadeInUp" data-delay="800">
@@ -36,7 +36,7 @@ include 'includes/public_header.php' ?>
                         </div>
                         <div class="layer-slick1 animated visible-false" data-appear="lightSpeedIn" data-delay="800">
                             <h2 class="ltext-104 cl2 p-t-19 p-b-43 respon1" style="color: white;">
-                                Accessories And More
+                                Blends And More
                             </h2>
                         </div>
                         <div class="layer-slick1 animated visible-false" data-appear="slideInUp" data-delay="1600">
@@ -52,7 +52,7 @@ include 'includes/public_header.php' ?>
                     <div class="flex-col-l-m h-full p-t-100 p-b-30">
                         <div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
                             <span class="ltext-202 cl2 respon2">
-                                Collection 2021
+                                New Collection
                             </span>
                         </div>
                         <div class="layer-slick1 animated visible-false" data-appear="rotateInUpRight" data-delay="800">
